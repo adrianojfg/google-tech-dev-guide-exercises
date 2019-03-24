@@ -47,7 +47,7 @@ The exercise explained that it's possible to have nested compressed string, so w
 I wrote the algorithm in Javascript. We can run with the following instructions:
 
 ```
-git clone 
+git clone git@github.com:adrianojfg/google-tech-dev-guide-exercises.git
 cd google-tech-dev-guide-exercises
 node compression-decompression
 ````
